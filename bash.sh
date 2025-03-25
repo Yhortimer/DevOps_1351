@@ -7,4 +7,4 @@ do
 done
 
 echo 'The practice started'
-echo  'Extra line to demonstrate a push request'
+echo  'Extra line to demonstrate the recently pushed processes'
