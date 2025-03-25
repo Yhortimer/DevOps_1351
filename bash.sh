@@ -6,6 +6,5 @@ do
    let COUNTER=$COUNTER+1 
 done
 
-
 echo 'The practice started'
 echo  'Extra line to demonstrate a push request'
