@@ -1,0 +1,6 @@
+gh repo clone your-username/your-repo  
+cd your-repo  
+echo "node_modules/" >> .gitignore  
+git add .gitignore  
+git commit -m "Add .gitignore"  
+git push  
